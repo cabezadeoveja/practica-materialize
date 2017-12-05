@@ -1,0 +1,62 @@
+body{
+	margin:0;
+	padding: 0;
+	background-color: #F78E69;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+header{
+	background-color: #F78E69;
+	color:#FFFFFF;
+}
+
+.firstSection{
+	background-image: url(../assets/uno.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+	-webkit-filter: grayscale(1);
+}
+
+.subSubtitle{
+	padding-bottom: 0.2em;
+}
+
+.about{	
+	background: #ABE188;
+}
+
+.aboutMiddle{
+	color: #ffffff;
+}
+
+.threeSection{
+	background-image: url(../assets/dos.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 90vh;
+}
+
+.galleryPhotos{
+	background: #ABE188;
+}
+
+h3{
+	color: #FFFFFF;
+}
+
+img{
+	border: 0.6em solid white;
+}
+
+.fiveSection{
+	background-image: url(../assets/tres.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 90vh;
+	-webkit-filter: grayscale(1);
+}
+
+h6{
+	color: #FFFFFF;
+}
